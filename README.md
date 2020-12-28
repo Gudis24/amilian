@@ -1,1 +1,2 @@
-amilian
+# lookslike
+Wylotowy theme do WP
